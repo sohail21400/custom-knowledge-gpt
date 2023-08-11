@@ -1,0 +1,31 @@
+Ship Name,To,From,Current Location,No of Freights,Condition,Capacity
+S.S. Neptune,New York,Miami,Port of Miami,125,Good,200
+M.V. Horizon,Los Angeles,Shanghai,Port of Los Angeles,250,Excellent,350
+R.M.S. Meridian,Marseille,New York,Port of New York,175,Fair,225
+H.M.S. Endeavour,Sydney,London,Port of Sydney,200,Poor,275
+C.S.S. Enterprise,Hong Kong,Seattle,Port of Seattle,150,Good,250
+U.S.S. Voyager,London,San Francisco,Port of San Francisco,300,Excellent,400
+S.S. Pacifica,Tokyo,Honolulu,Port of Honolulu,200,Good,275
+M.S. Northern Star,New York,Hamburg,Port of Hamburg,180,Fair,250
+R.M.S. Titanic,Southampton,New York,Port of New York,175,Poor,200
+H.M.S. Bounty,New York,Boston,Port of Boston,150,Good,225
+C.S.S. Alabama,Boston,Charleston,Port of Charleston,175,Excellent,300
+U.S.S. Nimitz,San Diego,Pearl Harbor,Port of Pearl Harbor,200,Fair,275
+S.S. Britannia,Sydney,Auckland,Port of Auckland,125,Poor,175
+M.V. Seabourn,Barcelona,Athens,Port of Athens,150,Good,225
+R.M.S. Queen Mary,Southampton,New York,Port of New York,200,Excellent,300
+H.M.S. Ark Royal,Portsmouth,Gibraltar,Port of Gibraltar,175,Fair,250
+C.S.S. Virginia,Charleston,New Orleans,Port of New Orleans,225,Poor,350
+U.S.S. Carl Vinson,Yokosuka,Sasebo,Port of Sasebo,250,Good,400
+S.S. Oriana,Melbourne,Sydney,Port of Sydney,175,Excellent,250
+M.V. Aurora,Hong Kong,Shenzhen,Port of Shenzhen,200,Fair,275
+R.M.S. Lusitania,Liverpool,New York,Port of New York,175,Poor,200
+H.M.S. Invincible,Plymouth,Edinburgh,Port of Edinburgh,150,Good,225
+C.S.S. Texas,New Orleans,Houston,Port of Houston,175,Excellent,300
+U.S.S. Ronald Reagan,Yokosuka,Hong Kong,Port of Hong Kong,200,Fair,275
+S.S. Canberra,Sydney,Adelaide,Port of Adelaide,225,Poor,350
+M.V. Pacific Princess,Barcelona,Rome,Port of Rome,150,Good,225
+R.M.S. Carpathia,Liverpool,New York,Port of New York,200,Excellent,300
+H.M.S. Vanguard,Portsmouth,Barcelona,Port of Barcelona,175,Fair,250
+C.S.S. Georgia,Charleston,Tampa,Port of Tampa,125,Poor,175
+U.S.S. Theodore Roosevelt,Yokosuka,Busan,Port of Busan,250,Good,400
